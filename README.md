@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @wasureshio
-- 👀 I’m interested in coding with c++ or making roblox games
+- 👀 I’m interested in coding with c++ and making roblox games
 - 🌱 I’m currently learning c++ and java
 - 💞️ I’m looking to collaborate on Roblox Studio(probably :/)
 - 📫 contact me through dm
